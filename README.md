@@ -16,7 +16,6 @@
   </div>
 </details>
 
-
 <details>
   <summary><h3 aling="center">☎️ Contact Me</h3></summary>
 <div>
