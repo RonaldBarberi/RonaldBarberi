@@ -1,11 +1,24 @@
 <div align="center">
 <h1 align="center">Hi, I'm Ronald Barberi 👋</h1>
-<h4 align="center">I am an Independent Developer, Data Scientist and also an engineering student at the Escuela Superior de Empresa, Ingeniería y Tecnología (ESEIT).
+<h4 align="center">I am an Independent Developer, Data Scientist and also an engineering student at the Escuela Superior de Empresa, Ingeniería y Tecnología (ESEIT). </h4>
 </div>
 
 -----
 <details>
-  <summary>☎️ Contact Me</summary>
+  <summary><h3 align="center">🧠 KEY SKILLS</h3></summary>
+  <div>
+    <h5 align="left">- R</h5>
+    <h5 align="left">- Python</h5>
+    <h5 align="left">- SQL</h5>
+    <h5 align="left">- Erlang-C</h5>
+    <h5 align="left">- Office</h5>
+    <h5 align="left">- Power BI</h5>
+  </div>
+</details>
+
+
+<details>
+  <summary><h3 aling="center">☎️ Contact Me</h3></summary>
 <div>
   <samp>
     <h2 align="center">You can reach me by:</h2>
@@ -29,7 +42,7 @@
 </details>
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary><h3 aling="center">💻 GitHub Profile Stats</h3></summary>
   <div>
   <samp>
     <h2 align="center"> Github stats </h2>
