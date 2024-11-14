@@ -3,7 +3,7 @@
 <h4 align="center">I am an Independent Developer, Data Scientist and also an engineering student at the Escuela Superior de Empresa, Ingeniería y Tecnología (ESEIT). </h4>
 <h4 align="center">
   Don't forget to check out my web application! It’s in the repository 'web_kretonsky', which is linked below. It’s my personal portfolio where you’ll find much more detailed information.
-</h4>h4>
+</h4>
 <h4 align="center">
   Thank you for your   interest in my profile!
 </h4>
