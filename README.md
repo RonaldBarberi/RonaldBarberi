@@ -1,9 +1,13 @@
 <div align="center">
+<h1 align="center">
+  Hi, I'm Ronald Barberi (KretoN) 👋
+</h1>
 <p align="center">
   <img src="assets/banner_produccion_kreton_largo.png" alt="Portada personal" style="object-fit: cover; border-radius: 15px;">
 </p>
-<h1 align="center">Hi, I'm Ronald Barberi (KretoN) 👋</h1>
-<h4 align="center">I am an Independent Developer, Data Scientist and also an engineering student at the Escuela Superior de Empresa, Ingeniería y Tecnología (ESEIT). </h4>
+<h4 align="center">
+  I am a passionate data professional specializing in analytics, science, and engineering, with a proven track record of delivering impactful results. I create programming-focused content and bring extensive commercial experience to my work. Currently pursuing a Statistics degree at Fundación Universitaria los Libertadores in Bogotá, Colombia.
+</h4>
 <h4 align="center">
   Don't forget to check out my web application! It’s in the repository 'web_kretonsky', which is linked below. It’s my personal portfolio where you’ll find much more detailed information.
 </h4>
