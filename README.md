@@ -169,3 +169,9 @@
   </samp>
   </div>    
 </details>
+
+----
+<h4 align="center">Control</h4>
+<p align="center">
+  create_at: 2024-19-28 21:06 || update_at: 2025-11-02 17:31
+</p>
