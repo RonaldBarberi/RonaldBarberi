@@ -7,7 +7,8 @@
 </p>
 <h4 align="center">
   Soy un apasaionado de los datos, especializado en análisis, ciencia e ingeniería, con una trayectoria comprobada en la obtención de resultados de alto impacto. Mi proyecto se basa en la creación de contenido enfocado en programación y aporto una amplia experiencia comercial a mi trabajo. Actualmente curso un pregrado en Estadística en la Fundación Universitaria Los Libertadores en Bogotá D.C., Colombia.
-
+</h4>
+<h4>
   Si bien este repositorio es para presentar mis proyectos, en caso de que quieras visualizar mi CV, lo podras encontrar aquí: <a href="https://github.com/RonaldBarberi/RonaldBarberi/blob/main/assets/cv_ronald_barberi.pdf" target="_blank">CV_RONALD_BARBERI</a>
 </h4>
 <h4 align="center">
