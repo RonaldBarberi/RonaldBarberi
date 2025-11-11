@@ -12,7 +12,7 @@
   Si bien este repositorio es para presentar mis proyectos, en caso de que quieras visualizar mi CV, lo podras encontrar aquí: <a href="https://github.com/RonaldBarberi/RonaldBarberi/blob/main/assets/cv_ronald_barberi.pdf" target="_blank">CV_RONALD_BARBERI</a>
 </h4>
 <h4 align="center">
-  ¡No olvides visitar mis proyectos de Analisis, Ciencia e Ingenieria de datos.
+  ¡No olvides visitar mis proyectos de Analisis, Ciencia e Ingenieria de datos!
 </h4>
 <h4 align="center">
   ¡Gracias por interesarte en mi perfil!
