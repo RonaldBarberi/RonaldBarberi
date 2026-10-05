@@ -1,0 +1,35 @@
+name: Actualizar estadísticas del perfil
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # diario, 01:17 hora de Bogotá
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/generate_stats.py", ".github/workflows/stats.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generar SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_stats.py
+      - name: Publicar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats
+          git diff --cached --quiet || (git commit -m "chore: actualizar estadísticas del perfil" && git push)

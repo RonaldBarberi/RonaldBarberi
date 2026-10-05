@@ -2,13 +2,13 @@
 
 <img src="assets/banner_produccion_kreton_largo.png" alt="Ronald Barberi (KretoN)" width="100%">
 
-**Español** · [English](README.en.md)
+[Español](README.md) · **English**
 
-# Hola, soy Ronald Barberi 👋
+# Hi, I'm Ronald Barberi 👋
 
-### Data Scientist & Data Engineer · Machine Learning · Big Data/ETL · Analítica
+### Data Scientist & Data Engineer · Machine Learning · Big Data/ETL · Analytics
 
-📍 Bogotá, Colombia · 🌎 Remoto o híbrido · 📄 CV: [Español](assets/cv_ronald_barberi_es.pdf) · [English](assets/cv_ronald_barberi_en.pdf)
+📍 Bogotá, Colombia · 🌎 Open to remote or hybrid · 📄 Resume: [English](assets/cv_ronald_barberi_en.pdf) · [Español](assets/cv_ronald_barberi_es.pdf)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronald_Barberi-2a78d6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-eduardo-barberi-ria%C3%B1o-rebr/)
 [![Email](https://img.shields.io/badge/Email-tethor60@gmail.com-eb6834?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tethor60@gmail.com)
@@ -18,25 +18,25 @@
 
 ---
 
-## 🧭 Sobre mí
+## 🧭 About me
 
-Más de **6 años** construyendo el ciclo completo del dato en banca, medios de pago, tecnología y BPO:
-**ingesta** batch y streaming → **transformación** a escala de terabytes → **análisis** estadístico →
-**modelos de ML en producción** → **valor de negocio**. Estudio Estadística en la Fundación Universitaria
-Los Libertadores y comparto lo que aprendo como creador de contenido técnico ([kreton-learning-es](https://github.com/RonaldBarberi/kreton-learning-es)).
+**6+ years** building the full data lifecycle in banking, payments, technology, and BPO:
+batch and streaming **ingestion** → terabyte-scale **transformation** → statistical **analysis** →
+**production ML models** → **business value**. I study Statistics at Fundación Universitaria
+Los Libertadores and share what I learn as a technical content creator ([kreton-learning-es](https://github.com/RonaldBarberi/kreton-learning-es)).
 
-| Resultado | Dónde |
-|-----------|-------|
-| **+5.000 millones** de registros procesados con PySpark, Apache NiFi y Cloudera | Credibanco |
-| **+275%** de crecimiento en campañas, las más rentables del periodo | COS (BPO) |
-| **~10 h/día** ahorradas con ~15 procesos automatizados mediante agentes de IA (Claude) | Samsung |
-| **+20%** estimado en la efectividad de promociones con modelos de clasificación | Samsung |
-| **8%** estimado de clientes recuperados y retenidos tras un análisis inferencial de fuga | Credibanco |
-| Feature engineering en **terabytes** y modelos **NBO/NBA/Churn** monitoreados con MLOps en SageMaker | Itaú |
+| Result | Where |
+|--------|-------|
+| **5+ billion** records processed with PySpark, Apache NiFi, and Cloudera | Credibanco |
+| **+275%** campaign growth, the most profitable of the period | COS (BPO) |
+| **~10 h/day** saved by automating ~15 processes with AI agents (Claude) | Samsung |
+| Estimated **+20%** promotion effectiveness from classification models | Samsung |
+| Estimated **8%** of churning customers recovered after an inferential analysis | Credibanco |
+| **Terabyte-scale** feature engineering and **NBO/NBA/Churn** models monitored with MLOps on SageMaker | Itaú |
 
 ## 🛠️ Stack
 
-**Ingeniería de datos**<br>
+**Data engineering**<br>
 ![Python](https://img.shields.io/badge/Python-2a78d6?style=flat-square&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-2a78d6?style=flat-square&logo=apachespark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-2a78d6?style=flat-square&logo=apacheairflow&logoColor=white)
@@ -48,16 +48,16 @@ Los Libertadores y comparto lo que aprendo como creador de contenido técnico ([
 ![Cloudera](https://img.shields.io/badge/Cloudera_(Hive·Impala)-2a78d6?style=flat-square&logo=cloudera&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas·Polars-2a78d6?style=flat-square&logo=pandas&logoColor=white)
 
-**Ciencia de datos y ML**<br>
+**Data science & ML**<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-eb6834?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost·LightGBM-eb6834?style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow·Keras-eb6834?style=flat-square&logo=tensorflow&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-eb6834?style=flat-square&logo=mlflow&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-eb6834?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV·MediaPipe-eb6834?style=flat-square&logo=opencv&logoColor=white)
-![Claude](https://img.shields.io/badge/Agentes_LLM_(Claude)-eb6834?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/LLM_agents_(Claude)-eb6834?style=flat-square&logo=anthropic&logoColor=white)
 
-**Análisis, BI y bases de datos**<br>
+**Analytics, BI & databases**<br>
 ![SQL](https://img.shields.io/badge/SQL-1baf7a?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1baf7a?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-1baf7a?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -69,7 +69,7 @@ Los Libertadores y comparto lo que aprendo como creador de contenido técnico ([
 ![Looker](https://img.shields.io/badge/Looker-1baf7a?style=flat-square&logo=looker&logoColor=white)
 ![R](https://img.shields.io/badge/R-1baf7a?style=flat-square&logo=r&logoColor=white)
 
-**Cloud y DevOps**<br>
+**Cloud & DevOps**<br>
 ![AWS](https://img.shields.io/badge/AWS_(S3·EMR·Glue·Athena)-52514e?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-52514e?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-52514e?style=flat-square&logo=docker&logoColor=white)
@@ -77,45 +77,45 @@ Los Libertadores y comparto lo que aprendo como creador de contenido técnico ([
 ![FastAPI](https://img.shields.io/badge/FastAPI-52514e?style=flat-square&logo=fastapi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-52514e?style=flat-square&logo=linux&logoColor=white)
 
-## 🚀 Proyectos destacados
+## 🚀 Featured projects
 
-| Proyecto | Qué demuestra | Resultado |
-|----------|---------------|-----------|
-| [**data_science**](https://github.com/RonaldBarberi/data_science) | Clasificación desbalanceada, regresión validada en el tiempo, visión por computador y validación de señal | ROC-AUC **0.74** (CV) · R² **0.84** · accuracy **98.7%** |
-| [**data_analytics**](https://github.com/RonaldBarberi/data_analytics) | EDA completo: imputación, outliers, ruido y validación estadística, con utilidades en pandas y PySpark | Datasets listos para modelar |
-| [**structured_data_etls**](https://github.com/RonaldBarberi/structured_data_etls) | ETLs de producción: Excel, Outlook y web → pandas → MySQL, y SP de depuración de millones de registros | Cargas idempotentes |
-| [**bots_seends**](https://github.com/RonaldBarberi/bots_seends) | Bots que envían reportes y alertas por Outlook, Telegram y WhatsApp | Reportería automatizada |
-| [**app_kretonsky**](https://github.com/RonaldBarberi/app_kretonsky) | App para ejecutar scripts y monitorear logs, tiempos y estado final | Orquestación ligera |
-| [**kreton-learning-es**](https://github.com/RonaldBarberi/kreton-learning-es) | Documentación técnica en español: PySpark, NiFi, AWS, scikit-learn, XGBoost, Polars… | Divulgación |
+| Project | What it shows | Result |
+|---------|---------------|--------|
+| [**data_science**](https://github.com/RonaldBarberi/data_science/blob/main/README.en.md) | Imbalanced classification, time-validated regression, computer vision, and signal validation | ROC-AUC **0.74** (CV) · R² **0.84** · **98.7%** accuracy |
+| [**data_analytics**](https://github.com/RonaldBarberi/data_analytics/blob/main/README.en.md) | End-to-end EDA: imputation, outliers, noise, and statistical validation, with pandas and PySpark helpers | Model-ready datasets |
+| [**structured_data_etls**](https://github.com/RonaldBarberi/structured_data_etls/blob/main/README.en.md) | Production ETLs: Excel, Outlook, and web → pandas → MySQL, plus stored procedures that cleanse millions of rows | Idempotent loads |
+| [**bots_seends**](https://github.com/RonaldBarberi/bots_seends) | Bots that send reports and alerts via Outlook, Telegram, and WhatsApp | Automated reporting |
+| [**app_kretonsky**](https://github.com/RonaldBarberi/app_kretonsky) | App to run scripts and monitor logs, runtimes, and final status | Lightweight orchestration |
+| [**kreton-learning-es**](https://github.com/RonaldBarberi/kreton-learning-es) | Technical docs in Spanish: PySpark, NiFi, AWS, scikit-learn, XGBoost, Polars… | Knowledge sharing |
 
-## 💼 Experiencia reciente
+## 💼 Recent experience
 
-- **Samsung**: Data Coordinator Business · 07/2026 – 10/2026
-- **Itaú** (vía Multiplica): Data Scientist · 11/2025 – 07/2026
-- **Credibanco** (vía Nexos): Ingeniero de Datos · 12/2024 – 11/2025
+- **Samsung**: Business Data Coordinator · 07/2026 – 10/2026
+- **Itaú** (via Multiplica): Data Scientist · 11/2025 – 07/2026
+- **Credibanco** (via Nexos): Data Engineer · 12/2024 – 11/2025
 - **Customer Operation Success (COS)**: Data Scientist / Data Mining · 04/2022 – 12/2024
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub stats
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stats/overview-es-dark.svg">
-    <img src="assets/stats/overview-es-light.svg" alt="Resumen de GitHub" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats/overview-en-dark.svg">
+    <img src="assets/stats/overview-en-light.svg" alt="GitHub overview" width="100%">
   </picture>
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stats/langs-es-dark.svg">
-    <img src="assets/stats/langs-es-light.svg" alt="Lenguajes más usados" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats/langs-en-dark.svg">
+    <img src="assets/stats/langs-en-light.svg" alt="Top languages" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stats/activity-es-dark.svg">
-    <img src="assets/stats/activity-es-light.svg" alt="Commits por mes" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats/activity-en-dark.svg">
+    <img src="assets/stats/activity-en-light.svg" alt="Commits per month" width="49%">
   </picture>
 </p>
 
-<sub>Gráficas generadas a diario por una <a href=".github/workflows/stats.yml">GitHub Action</a> propia con la API de GitHub, sin servicios externos.</sub>
+<sub>Charts generated daily by a custom <a href=".github/workflows/stats.yml">GitHub Action</a> using the GitHub API, with no third-party services.</sub>
 
 ---
 
-<p align="center"><sub>Actualizado: 10/2026</sub></p>
+<p align="center"><sub>Updated: 10/2026</sub></p>
